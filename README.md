@@ -1,4 +1,4 @@
-DockerHub Url: https://hub.docker.com/repository/docker/marlay298/601_module10/general
+DockerHub Url: https://hub.docker.com/repository/docker/marlay298/601_module11/general
 
 ## GitHub Actions Workflow:
 ![GitHub Actions](images/actions.png)
